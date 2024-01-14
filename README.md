@@ -1,4 +1,4 @@
-# Retail Market Case Study Using Power BI 
+# Walmart Market Case Study Using Power BI 
 
 ## NOTE
 
